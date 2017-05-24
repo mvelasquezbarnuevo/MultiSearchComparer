@@ -1,0 +1,93 @@
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearchTest.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearchTest.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Castle.Core.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Moq.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.SearchingCore.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.exe
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.abstractions.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.assert.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.core.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.execution.desktop.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SimpleInjector.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.SearchingCore.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.exe.config
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Castle.Core.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Moq.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.abstractions.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.assert.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.core.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\xunit.execution.desktop.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SimpleInjector.xml
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.csprojResolveAssemblyReference.cache
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.pdb
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Common.pdb
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearchTest.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearchTest.pdb
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Castle.Core.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\log4net.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Moq.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Common.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Engine.Google.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.SearchingCore.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.exe
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Colorful.Console.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\SimpleInjector.dll
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Common.pdb
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Engine.Google.pdb
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.SearchingCore.pdb
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.pdb
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.exe.config
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Castle.Core.xml
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\log4net.xml
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\Moq.xml
+C:\source\MultiSearchComparer\MultiSearchTest\bin\Debug\SimpleInjector.xml
+C:\source\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.csprojResolveAssemblyReference.cache
+C:\source\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.dll
+C:\source\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.csprojResolveAssemblyReference.cache
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearchTest.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearchTest.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Castle.Core.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\log4net.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Moq.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Engine.Google.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.SearchingCore.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.exe
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Colorful.Console.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SimpleInjector.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Common.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.Engine.Google.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\MultiSearch.SearchingCore.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SearchFight.exe.config
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Castle.Core.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\log4net.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\Moq.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\bin\Debug\SimpleInjector.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearchTest\obj\Debug\MultiSearchTest.pdb

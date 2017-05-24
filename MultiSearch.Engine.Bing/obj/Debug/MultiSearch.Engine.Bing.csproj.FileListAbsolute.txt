@@ -1,0 +1,23 @@
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Engine.Bing.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Engine.Bing.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.csprojResolveAssemblyReference.cache
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.pdb
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Engine.Bing.dll
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Engine.Bing.pdb
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Common.dll
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Common.pdb
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.csprojResolveAssemblyReference.cache
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.Properties.Resources.resources
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.csproj.GenerateResource.Cache
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.dll
+C:\source\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Engine.Bing.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Engine.Bing.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\bin\Debug\MultiSearch.Common.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.csprojResolveAssemblyReference.cache
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.Properties.Resources.resources
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.csproj.GenerateResource.Cache
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Bing\obj\Debug\MultiSearch.Engine.Bing.pdb

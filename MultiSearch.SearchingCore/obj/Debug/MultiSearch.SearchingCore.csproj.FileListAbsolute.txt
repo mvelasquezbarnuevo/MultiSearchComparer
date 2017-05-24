@@ -1,0 +1,28 @@
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.SearchingCore.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.SearchingCore.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.pdb
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Common.pdb
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.csprojResolveAssemblyReference.cache
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.SearchingCore.dll
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.SearchingCore.pdb
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\Colorful.Console.dll
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\log4net.dll
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Common.dll
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Common.pdb
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\log4net.xml
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.csprojResolveAssemblyReference.cache
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.dll
+C:\source\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.SearchingCore.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.SearchingCore.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\log4net.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Common.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\log4net.xml
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.csprojResolveAssemblyReference.cache
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\obj\Debug\MultiSearch.SearchingCore.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Engine.Google.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.SearchingCore\bin\Debug\MultiSearch.Engine.Google.pdb

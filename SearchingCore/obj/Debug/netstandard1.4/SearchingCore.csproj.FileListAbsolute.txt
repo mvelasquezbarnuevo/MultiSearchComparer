@@ -1,0 +1,9 @@
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\bin\Debug\netstandard1.4\SearchingCore.deps.json
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\bin\Debug\netstandard1.4\SearchingCore.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\bin\Debug\netstandard1.4\SearchingCore.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\obj\Debug\netstandard1.4\SearchingCore.csprojResolveAssemblyReference.cache
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\obj\Debug\netstandard1.4\SearchingCore.AssemblyInfo.cs
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\obj\Debug\netstandard1.4\SearchingCore.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\obj\Debug\netstandard1.4\SearchingCore.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\bin\Debug\netstandard1.4\YandexEngine.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\SearchingCore\bin\Debug\netstandard1.4\YandexEngine.pdb

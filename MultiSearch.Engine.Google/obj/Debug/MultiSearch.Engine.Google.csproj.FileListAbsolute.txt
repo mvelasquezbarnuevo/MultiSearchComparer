@@ -1,0 +1,25 @@
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Engine.Google.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Engine.Google.pdb
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.dll
+c:\users\mvelasquez.belatrix\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.pdb
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Common.pdb
+C:\Users\mvelasquez.BELATRIX\documents\visual studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.csprojResolveAssemblyReference.cache
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Engine.Google.dll
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Engine.Google.pdb
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Common.dll
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Common.pdb
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.csprojResolveAssemblyReference.cache
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.Properties.Resources.resources
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.csproj.GenerateResource.Cache
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.dll
+C:\source\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Engine.Google.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Engine.Google.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Common.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\bin\Debug\MultiSearch.Common.pdb
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.csprojResolveAssemblyReference.cache
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.Properties.Resources.resources
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.csproj.GenerateResource.Cache
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.dll
+C:\Users\mvelasquez\Documents\Visual Studio 2017\Projects\MultiSearchComparer\MultiSearch.Engine.Google\obj\Debug\MultiSearch.Engine.Google.pdb
